@@ -14,3 +14,4 @@ Native Developent Kit -- 一套工具集合，允许你用像 C/C++ 语言那样
 
 * [Android NDK介绍（上）](http://www.importnew.com/8038.html)
 * [Android NDK介绍（下）](http://www.importnew.com/8052.html)
+* [Android: NDK编程入门笔记](http://www.cnblogs.com/hibraincol/archive/2011/05/30/2063847.html)
