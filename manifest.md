@@ -25,3 +25,31 @@
 主程序的包名
 
 ## 第二层：
+
+必须含有一个 application，声明每一个应用程序的组件及其属性。
+
+1. android:icon  
+
+整个 APP 的图标
+
+2. android:theme
+
+资源的风格，定义了一个默认风格给所有的 activity
+
+
+## 第三层：
+
+activity 
+
+
+## 第四层：
+
+intent-filter
+
+1. action
+
+只有 android:name 这个属性。比如：android.intent.action.MAIN，表示此 activity 是作为应用程序的入口
+
+2. category
+
+只有 android:name 这个属性。比如：android.intent.category.LAUNCHER，表示应用程序是否显示在程序列表里面。
