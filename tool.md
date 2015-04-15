@@ -16,3 +16,11 @@ command + option + /
 2. 单行注释
 
 command + /
+
+3. 复制行
+
+command + D
+
+4. 删除行
+
+command + X
