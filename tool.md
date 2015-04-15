@@ -1,26 +1,20 @@
-# Android Studio 
-记录一些和 tools 有关的东西
+# Android Log 
+记录一些和 log 有关的东西
 
-## 工程和模块
+android.util.Log 的类
 
-* project 相当于 Eclipse 的 workspace
-* module 相当于 Eclipse 的 project
+## Log.d()
 
+Debug
 
-## 快捷键
+## Log.i()
 
-1. 多行注释
+Info
 
-command + option + /
+## Log.v()
 
-2. 单行注释
+Verbose
 
-command + /
+## Log.e()
 
-3. 复制行
-
-command + D
-
-4. 删除行
-
-command + X
+Error
