@@ -28,3 +28,8 @@ command + X 或者 command + Delete
 5. 大小写切换
 
 command + Shift + U
+
+6. 上下移动代码
+
+Option + Shift + Up/Down
+
