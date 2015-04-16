@@ -23,4 +23,8 @@ command + D
 
 4. 删除行
 
-command + X
+command + X 或者 command + Delete
+
+5. 大小写切换
+
+command + Shift + U
