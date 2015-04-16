@@ -49,7 +49,13 @@ Preferences -> Appearance
 
 Preferences -> Editor -> Colors & Fonts -> Android Logcat
 
+11. 类直接切换
 
+command + O
+
+12. 文件直接切换
+
+command + Shift + O
 
 ## 扩展阅读：
 
