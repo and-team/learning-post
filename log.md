@@ -1,6 +1,20 @@
-# Android Layout 
-记录一些和 layout 有关的东西
+# Android Log 
+记录一些和 log 有关的东西
 
-## LinearLayout
+android.util.Log 的类
 
+## Log.d()
 
+Debug
+
+## Log.i()
+
+Info
+
+## Log.v()
+
+Verbose
+
+## Log.e()
+
+Error
