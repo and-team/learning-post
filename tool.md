@@ -33,3 +33,7 @@ command + Shift + U
 
 Option + Shift + Up/Down
 
+7. 快速定位行首/尾
+
+command + Left/Right
+
