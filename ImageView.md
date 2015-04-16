@@ -17,6 +17,10 @@ android:src="@drawable/main_title"
 
 设置了 ImageView 的最大高度
 
+#### android:adjustViewBounds
+
+是否保持宽高比，需要和 maxWidth 和 maxHeight 一起使用，单独无效
+
 
 #### android.scaleType
 
