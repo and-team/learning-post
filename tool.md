@@ -49,4 +49,5 @@ Preferences -> Appearance
 
 ## 扩展阅读：
 
+* [Android Studio系列教程一--下载与安装](http://stormzhang.com/devtools/2014/11/25/android-studio-tutorial1/)
 * [Android Studio系列教程三--快捷键](http://stormzhang.com/devtools/2014/12/09/android-studio-tutorial3/)
