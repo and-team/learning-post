@@ -37,3 +37,6 @@ Option + Shift + Up/Down
 
 command + Left/Right
 
+8. 自动导入
+
+Preferences -> Editor -> Auto Import 
