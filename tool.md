@@ -45,6 +45,10 @@ Preferences -> Editor -> Auto Import
 
 Preferences -> Appearance 
 
+10. 自定义 Logcat
+
+Preferences -> Editor -> Colors & Fonts -> Android Logcat
+
 
 
 ## 扩展阅读：
