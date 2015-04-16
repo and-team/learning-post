@@ -5,6 +5,10 @@ ImageView相关的东西
 
 ## 常用属性
 
+#### android:src 设置 ImageView 的图片来源
+
+android:src="@drawable/main_title"
+
 #### android:maxHeight
 
 设置了 ImageView 的最大高度
