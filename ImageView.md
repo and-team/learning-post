@@ -41,3 +41,8 @@ android:src="@drawable/main_title"
 * fitXY			纵横向独立缩放，以铺满 ImageView
 * matrix		使用 matrix 方式来缩放
 
+
+
+## 扩展
+
+* [Android ImageView图片自适应](http://blog.sina.com.cn/s/blog_618199e60100y537.html)
