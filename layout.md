@@ -49,3 +49,25 @@
 android:layout_alignBaseline="@id/tv_account"
 ```
 
+
+
+
+### 布局属性：
+
+#### android:layout_below
+
+该控件置于给定 id 为 tv_heard 的下面
+
+```xml
+android:layout_below="@id/tv_heard"
+```
+
+
+#### android:layout_toRightOf
+
+该控件置于给定 id 为 tv_account 的右边
+
+```xml
+android:layout_toRightOf="@id/tv_account"
+```
+#### 
