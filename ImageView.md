@@ -23,4 +23,5 @@ ImageView相关的东西
 * fitCenter		保持纵横比例缩放图片，缩放完成后将图片放置在 ImageView 的中央
 * fitStart 		保持纵横比例缩放图片，缩放完成后将图片放置在 ImageView 的左上角
 * fitXY			纵横向独立缩放，以铺满 ImageView
+* matrix		使用 matrix 方式来缩放
 
