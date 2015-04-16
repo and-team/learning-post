@@ -41,6 +41,10 @@ command + Left/Right
 
 Preferences -> Editor -> Auto Import 
 
+9. 修改主题
+
+Preferences -> Appearance 
+
 
 
 ## 扩展阅读：
