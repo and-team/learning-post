@@ -11,11 +11,19 @@ android:src="@drawable/main_title"
 
 #### android:maxHeight
 
-设置了 ImageView 的最大高度
+设置 ImageView 的最大高度
+
+* 需要把 adjustViewBounds 设置为 true
+* 需要设置 maxWidth
+* layout_width 和 layout_height 都为 wrap_content
 
 #### android.maxWidth
 
-设置了 ImageView 的最大高度
+设置 ImageView 的最大高度
+
+* 需要把 adjustViewBounds 设置为 true
+* 需要设置 maxHeight
+* layout_width 和 layout_height 都为 wrap_content
 
 #### android:adjustViewBounds
 
