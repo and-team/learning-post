@@ -76,3 +76,13 @@ android:layout_below="@id/tv_heard"
 android:layout_toRightOf="@id/tv_account"
 ```
 #### 
+
+
+
+
+
+
+
+## 扩展阅读：
+
+* [【Android布局】在程序中设置android:gravity 和 android:layout_Gravity属性](http://blog.csdn.net/feng88724/article/details/6333809)
