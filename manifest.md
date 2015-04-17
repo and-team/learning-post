@@ -65,6 +65,12 @@ intent-filter
 ```
 
 
+* 获取 GPS 定位相关的
+
+```xml
+<uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+```
+
 
 ## 扩展阅读：
 
