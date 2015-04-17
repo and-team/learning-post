@@ -77,11 +77,11 @@ android:layout_toRightOf="@id/tv_account"
 ```
 #### android:layout_above
 
-和 上面的 layout_below 相反
+和 上面的 layout_below 相反，该控件放置于 给定 ID 的上面。
 
 #### android:layout_toLeftOf
 
-和 上面的 layout_toRightOf 相反
+和 上面的 layout_toRightOf 相反，该控件放置于 给定 ID 的左边。
 
 
 
