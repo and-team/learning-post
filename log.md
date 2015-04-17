@@ -8,18 +8,18 @@ android.util.Log 的类
 1. tag，一般传入当前的类名，用于对打印信息的过滤
 2. msg，打印的具体内容
 
-## Log.d()
+## Log.d(String tag, String msg)
 
-Debug
+Debug，应当只存在开发中
 
-## Log.i()
+## Log.i(String tag, String msg)
 
 Info
 
-## Log.v()
+## Log.v(String tag, String msg)
 
 Verbose
 
-## Log.e()
+## Log.e(String tag, String msg)
 
 Error
