@@ -71,6 +71,11 @@ intent-filter
 <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
 ```
 
+* 读取手机状态
+
+```xml
+<uses-permission android:name="android.permission.READ_PHONE_STATE" />
+```
 
 ## 扩展阅读：
 
