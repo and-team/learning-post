@@ -14,3 +14,12 @@
 #### onCreate
 
 必须，初始化 Activity 的状态
+
+
+
+
+
+
+## 扩展阅读
+
+* [官网的 Activity](http://developer.android.com/reference/android/app/Activity.html)
