@@ -84,7 +84,11 @@ android:layout_toRightOf="@id/tv_account"
 和 上面的 layout_toRightOf 相反，该控件放置于 给定 ID 的左边。
 
 
+## fill_parent 与 match_parent、wrap_content
 
+* 他们都是 android:layout_width 和 android:layout_height 对应的值
+* match_parent 会取代 fill_parent，将大小扩展到最大的宽度或者高度
+* wrap_content 将控件的大小根据控件中的内容来分配
 
 
 
