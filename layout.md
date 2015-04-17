@@ -14,6 +14,11 @@
 设置该 view 里面的内容相对于该 View 的位置。
 
 
+#### android:layout_gravity
+
+设置该 view 相对于父 view 的位置
+
+
 #### android:layout_weight
 
 线性布局会根据该控件的 layout_weight 值与其所处布局中所有控件的 layout_weight 之和的比例为该控件分配占用的区域
