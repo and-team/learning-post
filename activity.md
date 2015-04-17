@@ -1,5 +1,6 @@
 # Android Activity 
 
+extends ContextThemeWrapper
 
 ## 生命周期
 

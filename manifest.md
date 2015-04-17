@@ -53,3 +53,13 @@ intent-filter
 2. category
 
 只有 android:name 这个属性。比如：android.intent.category.LAUNCHER，表示应用程序是否显示在程序列表里面。
+
+
+
+#### uses-permission
+
+* [连网](http://developer.android.com/training/basics/network-ops/connecting.html)
+
+```xml
+<uses-permission android:name="android.permission.INTERNET" />
+```
