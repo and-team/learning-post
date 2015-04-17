@@ -71,7 +71,7 @@ intent-filter
 <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
 ```
 
-* 读取手机状态
+* 读取手机当前的状态
 
 ```xml
 <uses-permission android:name="android.permission.READ_PHONE_STATE" />
@@ -82,6 +82,11 @@ intent-filter
 ```xml
 <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
 ```
+
+* 向扩展卡里面写入数据
+
+<uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
 
 ## 扩展阅读：
 
