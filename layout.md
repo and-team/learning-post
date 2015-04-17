@@ -75,7 +75,13 @@ android:layout_below="@id/tv_heard"
 ```xml
 android:layout_toRightOf="@id/tv_account"
 ```
-#### 
+#### android:layout_above
+
+和 上面的 layout_below 相反
+
+#### android:layout_toLeftOf
+
+和 上面的 layout_toRightOf 相反
 
 
 
