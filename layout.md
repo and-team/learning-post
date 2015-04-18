@@ -96,3 +96,4 @@ android:layout_toRightOf="@id/tv_account"
 ## 扩展阅读：
 
 * [【Android布局】在程序中设置android:gravity 和 android:layout_Gravity属性](http://blog.csdn.net/feng88724/article/details/6333809)
+* [Android fill_parent、wrap_content和match_parent的区别](http://blog.sina.com.cn/s/blog_4ca9ceef0100zwc9.html)
