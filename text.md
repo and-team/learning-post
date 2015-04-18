@@ -31,7 +31,19 @@
 * serif
 
 
+## android:autoLink
+
+链接
+
+* all
+* email
+* phone
+* web
+* map
+* none
 
 
 
+## setTextColor
 
+## setTypeface
