@@ -88,7 +88,7 @@ android:layout_toRightOf="@id/tv_account"
 
 * 他们都是 android:layout_width 和 android:layout_height 对应的值
 * match_parent 会取代 fill_parent，将大小扩展到最大的宽度或者高度
-* wrap_content 将控件的大小根据控件中的内容来分配
+* wrap_content 将控件的大小根据控件中的内容来分配，以 TextView 和 ImageView 为例，设置 wrap_content 将完全显示内部的文本和图像。会根据内容来更改大小。
 
 
 
