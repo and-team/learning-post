@@ -1,6 +1,10 @@
 # Android Java String 
 记录一些和 Java String 有关的东西
 
+## 
+
+
+
 ## equals 与 equalsIgnoreCase
 
 * equals: 两个字符串具有相同的字符和长度，返回 true，区分大小写
