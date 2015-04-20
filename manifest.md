@@ -91,4 +91,4 @@ intent-filter
 ## 扩展阅读：
 
 * [What permission do I need to access Internet from an android application?](http://stackoverflow.com/questions/2378607/what-permission-do-i-need-to-access-internet-from-an-android-application)
-* []()
+* [android权限](http://blog.sina.com.cn/s/blog_4ba5b45e0102ek9m.html)
