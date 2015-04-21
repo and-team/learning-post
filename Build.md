@@ -4,6 +4,15 @@
 android.os.Build
 ```
 
+## TIME
+
+## TYPE
+
+## USER
+
+## BOARD
+
+
 ## VERSION
 
 #### CODENAME
