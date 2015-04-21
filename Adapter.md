@@ -1,10 +1,5 @@
-# Android Manager 
+# Android Adapter 
 
-## PackageManager
+## BaseAdapter
 
-
-## ConnectivityManager
-
-## InputMethodManager
-
-## RingtoneManager
+## getView

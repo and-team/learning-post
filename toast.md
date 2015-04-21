@@ -5,6 +5,12 @@
 import android.widget.Toast;
 ```
 
+## makeText
 
+## Toast.LENGTH_LOGN
+
+## Toast.LENGTH_SHORT
+
+## show
 
 

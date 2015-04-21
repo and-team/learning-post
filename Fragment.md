@@ -6,6 +6,11 @@ Fragment 相关的东西
 * 如果 3.0 之前的系统，需要导入 android-support-v4
 
 
+## getFragmentManager
+
+## DialogFragment
+
+
 
 ## 扩展阅读
 

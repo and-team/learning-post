@@ -1,7 +1,11 @@
 # Android Java String 
 记录一些和 Java String 有关的东西
 
-## 
+## getString
+
+## format
+
+
 
 
 

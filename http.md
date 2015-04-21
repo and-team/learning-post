@@ -5,6 +5,17 @@
 
 * [官网](http://square.github.io/okhttp/)
 
+#### 如何使用
+
+在 MainActivity
+
+```java
+OkHttpClient client = new OkHttpClient();
+Request request = new Request.Builder()
+		.ur('')
+		.build();
+```
+
 
 ## Volley
 

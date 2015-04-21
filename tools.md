@@ -19,3 +19,4 @@ xmlns:tools="http://schemas.android.com/tools"
 * [Android Tools Project Site](http://tools.android.com/tech-docs/tools-attributes)
 * [android官方技术文档翻译——工具属性](http://blog.csdn.net/maosidiaoxian/article/details/41510581)
 * [android中xml tools属性详解](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0309/2567.html)
+* [Tools of the trade — Part 1](https://medium.com/sebs-top-tips/tools-of-the-trade-part-1-f3c1c73de898)
