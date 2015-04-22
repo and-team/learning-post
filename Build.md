@@ -12,6 +12,20 @@ android.os.Build
 
 ## BOARD
 
+## MANUFACTURER
+
+硬件制造商
+
+#### isMeizu
+
+public static final boolean isMeizu() {
+	if (Build.MANUFACTURER.equalsIgnoreCase('meizu')) {
+		return true;
+	}
+	return false;
+}
+
+
 
 ## VERSION
 
