@@ -25,4 +25,5 @@ Library/Android/sdk/tools/ddms
 * [DDMS](http://baike.baidu.com/view/2688850.htm)
 * [Android DDMS如何使用？](http://www.android100.org/html/201302/10/1380.html)
 * [android 调试工具 DDMS](http://www.cnblogs.com/zhengtao/articles/1951214.html)
+* [Android开发：使用DDMS Heap进行内存泄露调试](http://mobile.51cto.com/aprogram-380460.htm)
 
