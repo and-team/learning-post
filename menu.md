@@ -8,6 +8,15 @@ res/menu 下面的 xml
 </menu>
 ```
 
+## 3 种菜单
+
+* Option Menu  选项菜单 
+* Submenu	   子菜单	
+* Context Menu 快捷菜单
+
+
+
+
 ## item
 
 #### android:showAsAction
