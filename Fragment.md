@@ -18,4 +18,5 @@ Fragment 相关的东西
 
 ## 扩展阅读
 
+* [Fragments in developer](http://developer.android.com/guide/components/fragments.html)
 * [Android Fragments 详细使用](http://www.cnblogs.com/terryblog/archive/2012/02/17/2355753.html)
