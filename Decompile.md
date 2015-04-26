@@ -22,3 +22,4 @@ apk 文件解压后由 2 部分的文件：
 * [Apktool](http://ibotpeaches.github.io/Apktool/install/)
 * [framework-res.apk](https://www.androidfilehost.com/?fid=23212708291677144)
 * [Is there a way to get the source code from an APK file? [closed]](http://stackoverflow.com/questions/3593420/is-there-a-way-to-get-the-source-code-from-an-apk-file)
+* [Mac环境下Android APK包反编译详解](http://blog.csdn.net/missautumn/article/details/10415843)
