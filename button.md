@@ -2,6 +2,9 @@
 
 Button extends TextView
 
+> 默认 text 是大写的，可以设置 android:textAllCaps="false"
+
+
 举例：
 
 ```xml
