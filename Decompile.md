@@ -11,3 +11,14 @@ apk 文件解压后由 2 部分的文件：
 1、将 APK 文件后缀从 .apk 改成 .zip，然后将 .zip 解压
 2、在解压出来的目录中你可以看到 classes.dex
 
+
+
+
+
+## 扩展
+
+* [dex2jar](https://github.com/pxb1988/dex2jar)
+* [jd-gui](http://jd.benow.ca/)
+* [Apktool](http://ibotpeaches.github.io/Apktool/install/)
+* [framework-res.apk](https://www.androidfilehost.com/?fid=23212708291677144)
+* [Is there a way to get the source code from an APK file? [closed]](http://stackoverflow.com/questions/3593420/is-there-a-way-to-get-the-source-code-from-an-apk-file)
