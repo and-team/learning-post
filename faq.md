@@ -11,3 +11,9 @@ It allows us to organize our classes in a more meaningful way for how they are u
 ## sdk 安装目录
 
 mac 下：Library/Android/sdk
+
+## 如何定义一个数组
+
+```xml
+String[] arr = {"zhang", "yao", "chun"};
+```
