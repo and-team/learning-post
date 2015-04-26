@@ -29,3 +29,6 @@ String name2 = "ZHANGYAOCHUN";
 "zhangyaochun".equals(name2);  //false 
 "zhangyaochun".equalsIgnoreCase(name2);  //true 
 ```
+
+
+## StringBuilder

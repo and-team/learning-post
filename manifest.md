@@ -48,6 +48,8 @@ intent-filter
 
 1. action
 
+一个 intent-filter 至少应该包含一个 action。
+
 只有 android:name 这个属性。比如：android.intent.action.MAIN，表示此 activity 是作为应用程序的入口
 
 2. category
