@@ -21,6 +21,15 @@ extends ContextThemeWrapper
 必须，初始化 Activity 的状态
 
 
+## launchMode
+
+在 AndroidManifest.xml 中配置了 activity 的 android:launchMode 
+
+* standard
+* singleTop
+* singleTask
+* singleInstance
+
 
 
 
