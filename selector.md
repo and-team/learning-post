@@ -39,3 +39,10 @@
 		android:background="@drawable/button_color" />
 ```
 
+
+
+
+## 扩展阅读
+
+* [android的selector，背景选择器](http://dev.10086.cn/cmdn/wiki/index.php?doc-view-6014.html)
+
