@@ -16,6 +16,18 @@ new 一个 service
 </service>
 ```
 
+## startService
+
+```java
+startService(new Intent(MainActivity.this, MyService.class));
+```
+
+## stopService
+
+```java
+stopService(new Intent(MainActivity.this, MyService.class));
+```
+
 ## 生命周期
 
 ## 

@@ -20,4 +20,6 @@
 * [butterknife](http://jakewharton.github.io/butterknife/)
 
 
+## ZXing
 
+二维码扫描，[地址]([)
