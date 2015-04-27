@@ -59,6 +59,22 @@ android:layout_alignBaseline="@id/tv_account"
 
 ### 布局属性：
 
+#### android:alignParentLeft
+
+父元素的左边缘
+
+#### android:alignParentRight
+
+父元素的右边缘
+
+#### android:alignParentTop
+
+父元素的上边缘
+
+#### android:alignParentBottom
+
+父元素的下边缘
+
 #### android:layout_below
 
 该控件置于给定 id 为 tv_heard 的下面
