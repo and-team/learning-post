@@ -20,3 +20,7 @@ protected void onCreate(Bundle savedInstanceState) {
 
 
 ## loadUrl
+
+## reload
+
+## setWebChromeClient
