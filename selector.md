@@ -12,7 +12,7 @@
 * android:state_selected	选中
 * android:state_focused		获得焦点
 * android:state_pressed		点击
-* android:state_enabled		
+* android:state_enabled		设置是否响应事件
 
 
 ```xml
