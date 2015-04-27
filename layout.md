@@ -59,6 +59,10 @@ android:layout_alignBaseline="@id/tv_account"
 
 ### 布局属性：
 
+#### android:layout_centerInparent
+
+相对父元素居中
+
 #### android:alignParentLeft
 
 父元素的左边缘
