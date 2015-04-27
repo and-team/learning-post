@@ -50,6 +50,15 @@ public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle sa
 
 获取 FragmentManager，v4 中， getSupportFragmentManager
 
+> PlaceholderFragment 是 一个其他的 fragment。
+
+```java
+getFragmentManager().beginTransaction()
+	.add(R.id.container, new PlaceholderFragment())
+	.commit();
+```
+
+
 ## transaction.add()
 
 往 Activity 中添加一个 Fragment
