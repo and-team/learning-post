@@ -90,7 +90,13 @@ intent-filter
 <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
 
 
+* 拨打电话
+
+<uses-permission android:name="android.permission.CALL_PHONE" />
+
+
 ## 扩展阅读：
 
 * [What permission do I need to access Internet from an android application?](http://stackoverflow.com/questions/2378607/what-permission-do-i-need-to-access-internet-from-an-android-application)
 * [android权限](http://blog.sina.com.cn/s/blog_4ba5b45e0102ek9m.html)
+* [Android声明和使用权限](http://blog.csdn.net/liuhe688/article/details/6417983)
