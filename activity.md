@@ -25,8 +25,8 @@ extends ContextThemeWrapper
 
 在 AndroidManifest.xml 中配置了 activity 的 android:launchMode 
 
-* standard
-* singleTop
+* standard			默认的启动模式
+* singleTop			当前栈只有一个实例，按后退就退出了
 * singleTask
 * singleInstance
 
@@ -37,3 +37,4 @@ extends ContextThemeWrapper
 ## 扩展阅读
 
 * [官网的 Activity](http://developer.android.com/reference/android/app/Activity.html)
+* [基础总结篇之二：Activity的四种launchMode](http://blog.csdn.net/liuhe688/article/details/6754323/)
