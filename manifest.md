@@ -100,3 +100,4 @@ intent-filter
 * [What permission do I need to access Internet from an android application?](http://stackoverflow.com/questions/2378607/what-permission-do-i-need-to-access-internet-from-an-android-application)
 * [android权限](http://blog.sina.com.cn/s/blog_4ba5b45e0102ek9m.html)
 * [Android声明和使用权限](http://blog.csdn.net/liuhe688/article/details/6417983)
+* [Android permission 访问权限大全](http://www.cnblogs.com/wservices/archive/2010/05/04/1727250.html)
