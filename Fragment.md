@@ -87,3 +87,4 @@ getFragmentManager().beginTransaction()
 
 * [Fragments in developer](http://developer.android.com/guide/components/fragments.html)
 * [Android Fragments 详细使用](http://www.cnblogs.com/terryblog/archive/2012/02/17/2355753.html)
+* [android之针对fragment多次调用onCreateView的问题](http://www.cnblogs.com/lee0oo0/p/4011377.html)
