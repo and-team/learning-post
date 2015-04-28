@@ -45,4 +45,4 @@
 ## 扩展阅读
 
 * [android的selector，背景选择器](http://dev.10086.cn/cmdn/wiki/index.php?doc-view-6014.html)
-
+* [android背景选择器selector用法汇总](http://blog.sina.com.cn/s/blog_4b93170a0100qhwa.html)
